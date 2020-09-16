@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d1d68c4-75b7-4e1d-8f6e-c90b8532bab1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    <list default="true" id="4d1d68c4-75b7-4e1d-8f6e-c90b8532bab1" name="Default Changelist" comment="changed to index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +52,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600213223785</updated>
-      <workItem from="1600213224852" duration="1236000" />
+      <workItem from="1600213224852" duration="1534000" />
     </task>
+    <task id="LOCAL‎00001" summary="changed to index.html">
+      <created>1600214647161</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1600214647162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed to index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed to index.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="99" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600213514682">
@@ -134,6 +147,10 @@
       <screen x="0" y="0" width="1289" height="685" />
     </state>
     <state width="1267" height="205" key="GridCell.Tab.3.right/0.0.1289.685@0.0.1289.685" timestamp="1600214076955" />
+    <state x="237" y="75" key="Vcs.Push.Dialog.v2" timestamp="1600214664277">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state x="237" y="75" key="Vcs.Push.Dialog.v2/0.0.1289.685@0.0.1289.685" timestamp="1600214664277" />
     <state x="301" y="152" key="run.anything.popup" timestamp="1600213708620">
       <screen x="0" y="0" width="1289" height="685" />
     </state>
