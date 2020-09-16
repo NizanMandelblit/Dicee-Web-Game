@@ -24,5 +24,3 @@ if (randomNumber1 > randomNumber2) {
         document.querySelector("h1").textContent = "Draw!";
     }
 }
-
-var test = 2;

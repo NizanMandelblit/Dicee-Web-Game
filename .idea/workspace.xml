@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d1d68c4-75b7-4e1d-8f6e-c90b8532bab1" name="Default Changelist" comment="" />
+    <list default="true" id="4d1d68c4-75b7-4e1d-8f6e-c90b8532bab1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hZKYeYUhnzMCsUYPMOR8pdOVR4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600213223785</updated>
-      <workItem from="1600213224852" duration="1147000" />
+      <workItem from="1600213224852" duration="1236000" />
     </task>
     <servers />
   </component>
@@ -56,6 +62,14 @@
       <screen x="0" y="0" width="1289" height="685" />
     </state>
     <state x="99" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1289.685@0.0.1289.685" timestamp="1600213514682" />
+    <state x="473" y="240" key="Github.ShareDialog" timestamp="1600214486583">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state x="473" y="240" key="Github.ShareDialog/0.0.1289.685@0.0.1289.685" timestamp="1600214486583" />
+    <state x="397" y="40" key="Github.UntrackedFilesDialog" timestamp="1600214496144">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state x="397" y="40" key="Github.UntrackedFilesDialog/0.0.1289.685@0.0.1289.685" timestamp="1600214496144" />
     <state width="1267" height="205" key="GridCell.Tab.0.bottom" timestamp="1600214077261">
       <screen x="0" y="0" width="1289" height="685" />
     </state>
@@ -130,7 +144,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.js</url>
-          <line>27</line>
+          <line>25</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
