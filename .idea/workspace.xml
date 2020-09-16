@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4d1d68c4-75b7-4e1d-8f6e-c90b8532bab1" name="Default Changelist" comment="changed to index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600213223785</updated>
       <workItem from="1600213224852" duration="1681000" />
-      <workItem from="1600218085153" duration="14000" />
+      <workItem from="1600218085153" duration="48000" />
+      <workItem from="1600254924525" duration="799000" />
     </task>
     <task id="LOCAL‎00001" summary="changed to index.html">
       <created>1600214647161</created>
@@ -66,11 +86,29 @@
       <option name="presentableId" value="LOCAL‎00002" />
       <updated>1600214831774</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎00003" summary="changed to index.html">
+      <created>1600218110452</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1600218110452</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed to index.html" />
@@ -153,14 +191,18 @@
       <screen x="0" y="0" width="1289" height="685" />
     </state>
     <state width="1267" height="205" key="GridCell.Tab.3.right/0.0.1289.685@0.0.1289.685" timestamp="1600214954375" />
-    <state x="237" y="75" key="Vcs.Push.Dialog.v2" timestamp="1600214834248">
+    <state x="237" y="75" key="Vcs.Push.Dialog.v2" timestamp="1600218120813">
       <screen x="0" y="0" width="1289" height="685" />
     </state>
-    <state x="237" y="75" key="Vcs.Push.Dialog.v2/0.0.1289.685@0.0.1289.685" timestamp="1600214834248" />
+    <state x="237" y="75" key="Vcs.Push.Dialog.v2/0.0.1289.685@0.0.1289.685" timestamp="1600218120813" />
     <state x="301" y="152" key="run.anything.popup" timestamp="1600213708620">
       <screen x="0" y="0" width="1289" height="685" />
     </state>
     <state x="301" y="152" key="run.anything.popup/0.0.1289.685@0.0.1289.685" timestamp="1600213708620" />
+    <state x="307" y="6" width="672" height="678" key="search.everywhere.popup" timestamp="1600255282853">
+      <screen x="0" y="0" width="1289" height="685" />
+    </state>
+    <state x="307" y="6" width="672" height="678" key="search.everywhere.popup/0.0.1289.685@0.0.1289.685" timestamp="1600255282853" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
